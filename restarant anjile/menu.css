@@ -1,0 +1,27 @@
+#sunset {
+  border: 1px solid black;
+  height: 50px;
+  width: 100px;
+  display: inline-block;
+  padding-top: 25px;
+}
+
+body {
+  background-color: #ffcf65;
+  margin-left: auto;
+}
+
+#link_text {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+ #cup{
+   border-top:20px solid #f39c12;
+   border-bottom: 20px solid #f39c12;
+ }
+
+ body{
+    background-image: url("http://orig08.deviantart.net/5db0/f/2015/081/d/d/cupcake_wallpaper__purple__by_sosogirl123-d8mntn6.png" );
+
+ }
